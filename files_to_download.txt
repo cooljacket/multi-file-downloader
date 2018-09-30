@@ -1,0 +1,3 @@
+https://www.bioinf.jku.at/publications/older/2604.pdf lstm_paper.pdf
+http://www.cs.toronto.edu/~hinton/absps/ncfast.pdf A Fast Learning Algorithm For DBN.pdf
+http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf bengio12a.pdf
